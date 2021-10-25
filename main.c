@@ -36,6 +36,7 @@ int main(int argc, char const *argv[]) {
     }
 
     // Mostrar datos
+    ////
 
     printf("Carnet\tPromedio\n");
     float suma = 0;
